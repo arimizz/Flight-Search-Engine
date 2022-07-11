@@ -1,5 +1,5 @@
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com/v2/search"
-TEQUILA_API_KEY = "wpoHPFPthnu732BacX2ljgUARyQt0WF3"
+TEQUILA_API_KEY = "SECRET KEY"
 
 
 class FlightData:
