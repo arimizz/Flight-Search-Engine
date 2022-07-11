@@ -1,8 +1,8 @@
 import requests
 
 
-SHEETY_ENDPOINT_SHEET = "https://api.sheety.co/e1651d8e666699299dfd3fbca3f282f4/prices/price"
-SHEET_USERS_ENDPOINT = "https://api.sheety.co/e1651d8e666699299dfd3fbca3f282f4/prices/users"
+SHEETY_ENDPOINT_SHEET = "SHEETY_ENDPOINT_KEY"
+SHEET_USERS_ENDPOINT = 'SHEET_USERS_KEY'
 
 class DataManager:
 
